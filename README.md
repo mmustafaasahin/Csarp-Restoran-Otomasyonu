@@ -1,1 +1,0 @@
-# Csarp-Restoran-Otomasyonu
